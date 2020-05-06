@@ -83,7 +83,7 @@ var openFile = function(event)
 } 
 
 //reset
-
+/*
 const reset = document.getElementById("reset");
 if(reset)
 {
@@ -107,7 +107,7 @@ down.addEventListener("click", function(){
   /*if(fileExtension===".jpg" || fileExtension===".png")
   {
     var newFileName = fileName.substring(0, fileName.length,-4)+ "-edited.jpg";
-  }*/
+  }
   download(output, newFileName);
 });
 }
@@ -124,3 +124,4 @@ function download(output, newFileName)
   link.dispatchEvent(e);
 
 }
+*/
