@@ -1,3 +1,3 @@
 # PixIT
 
-Image editing webpage using CamanJS
+Image editing webpage using CamanJS library.
